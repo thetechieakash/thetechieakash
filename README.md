@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=740&t=st=1709840921~exp=1709841521~hmac=a417eb4ef320669e47c9ef5926bb4c6ac6c31b73ad0f806b292325b5d68ecc27" align="center" style="width: 100%" />
+<img src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=740&t=st=1709840921~exp=1709841521~hmac=a417eb4ef320669e47c9ef5926bb4c6ac6c31b73ad0f806b292325b5d68ecc27" align="center" style="width: 70%" />
 </div>  
   
 
