@@ -6,13 +6,14 @@
 ---
 
 ## 🛠️ Technologies I Work With:
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS  
-- **Backend:** PHP, MySQL, CodeIgniter, Laravel  
-- **Other Tools & Skills:** Version Control (Git), RESTful APIs, and more  
+- **Frontend:** HTML, CSS, JavaScript,Jquery, Bootstrap, Tailwind CSS...
+- **Backend:** PHP, MySQL, CodeIgniter, Laravel...
+- **Other Tools & Skills:** Version Control (Git & Git Hub), Production Ready Project,  RESTful APIs, and more...
 
 ---
 
 ## 🌟 About Me:
+- 🐱‍👤 Coding Jurney started from 2022
 - 🌐 Over **28+ successful projects** delivered, ranging from small-scale websites to full-fledged dynamic applications.  
 - 🚀 Passionate about creating seamless web experiences and solving complex problems with clean code.  
 - 📖 Constant learner, always exploring the latest trends and technologies in the web development ecosystem.  
@@ -21,8 +22,8 @@
 
 ## 🔗 Let's Connect:
 - 🌐 [Portfolio](https://codersketch)  
-- 📨 Email: [akashhalder@example.com](mailto:akashhalder@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/akashhalder](https://linkedin.com/in/akashhalder)  
+- 📨 Email: [akashhalder277@gmail.com](mailto:akashhalder277@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/code-akash]([https://www.linkedin.com/in/code-akash])  
 
 ---
 
