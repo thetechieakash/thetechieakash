@@ -21,7 +21,12 @@
 - 📱  Android development in React Native
 - 🐳 Containerization Docker
 - 🌐 Learn TypeScript and MERN stack
+
+---
   
+## 🌟 Current Project:
+- Bulding a Hotel booking site as per client requirement. Repo :[airbnb]([github.com/wmsn-web/airbnbclone])
+- 
 ---
 
 ## 🌟 About Me:
