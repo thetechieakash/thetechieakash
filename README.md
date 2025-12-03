@@ -26,7 +26,7 @@
   
 ## 🌟 Current Project:
 - Bulding a Hotel booking site as per client requirement. Repo : [airbnb]([github.com/wmsn-web/airbnbclone])
-- 
+  
 ---
 
 ## 🌟 About Me:
