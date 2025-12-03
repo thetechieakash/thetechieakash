@@ -39,7 +39,7 @@
 
 ## 🔗 Let's Connect:
 - 📨 Email: [akashhalder277@gmail.com](mailto:akashhalder277@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/code-akash]([linkedin.com/in/techieakash])  
+- 💼 LinkedIn: [linkedin.com/in/techieakash]([linkedin.com/in/techieakash])  
 
 ---
 
