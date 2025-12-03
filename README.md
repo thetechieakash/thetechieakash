@@ -2,31 +2,39 @@
 
 🎯 **Full Stack Software Developer**  
 👨‍🎓 Graduated in Arts, ITI Electrician(2021)  
-📌 From Kolkata, West Bengal, India  
+📌 From Chakdaha, West Bengal, India  
 👷‍♂️ priviously Worked in Exide Life Insurance(2019), F & B in Compass India(2021-2023)  
-💻 Currently working at [wmsn.in](https://wmsn.in)  
+💻 Currently working with [wmsn.in](https://wmsn.in)  as Freelancer
 
 ---
 
 ## 🛠️ Technologies I Work With:
-- **Frontend:** HTML, CSS, JavaScript,Jquery, Bootstrap, Tailwind CSS...
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS...
 - **Backend:** PHP, MySQL, CodeIgniter, Laravel...
-- **Other Tools & Skills:** Version Control (Git & Git Hub), Production Ready Project,  RESTful APIs, and more...
+- **Database:** MySQL...
+- **Frameworks:** CodeIgniter, Laravel...
+- **Other Tools & Skills:** Version Control (Git & Git Hub), Production Ready Project,  RESTful APIs, Figma and more...
+  
+---
 
+## 🌟 Future Goals:
+- 📱  Android development in React Native
+- 🐳 Containerization Docker
+- 🌐 Learn TypeScript and MERN stack
+  
 ---
 
 ## 🌟 About Me:
-- 🐱‍👤 Coding Jurney started from 2022
-- 🌐 Over **28+ successful projects** delivered, ranging from small-scale websites to full-fledged dynamic applications.  
+- 🐱‍👤 Coding Jurney started from mid 2022
+- 🌐 Over **13+ successful projects** including frontend and backend focused delivered, ranging from small-scale websites to full-fledged dynamic applications.  
 - 🚀 Passionate about creating seamless web experiences and solving complex problems with clean code.  
 - 📖 Constant learner, always exploring the latest trends and technologies in the web development ecosystem.  
 
 ---
 
 ## 🔗 Let's Connect:
-- 🌐 [Portfolio](https://codersketch)  
 - 📨 Email: [akashhalder277@gmail.com](mailto:akashhalder277@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/code-akash]([https://www.linkedin.com/in/code-akash])  
+- 💼 LinkedIn: [linkedin.com/in/code-akash]([linkedin.com/in/techieakash])  
 
 ---
 
