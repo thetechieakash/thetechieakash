@@ -1,9 +1,9 @@
 # Hi there! 👋 I'm Akash Halder  
 
 🎯 **Full Stack Software Developer**  
-👨‍🎓 Graduated in Arts, ITI Electrician(2021)  
+👨‍🎓 Graduated in Arts(2021), ITI Electrician(2020)  
 📌 From Chakdaha, West Bengal, India  
-👷‍♂️ priviously Worked in Exide Life Insurance(2019), F & B in Compass India(2021-2023)  
+👷‍♂️ priviously Worked in Office & Admin Support – Compass India Support Services Pvt. Ltd.(2021-2023)  
 💻 Currently working with [wmsn.in](https://wmsn.in)  as Freelancer
 
 ---
